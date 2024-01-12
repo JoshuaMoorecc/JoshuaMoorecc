@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JoshuaMoorecc/post-install-config)
 
 - <b>Microsoft Azure</b>
-  - [Creating Vitual Machines](https://github.com/JoshuaMoorecc/configure-ad-)
+  - [Creating Vitual Machines](https://github.com/JoshuaMoorecc/Creating-VM)
   - [Creating Active Directory within Azure VMs](https://github.com/JoshuaMoorecc/configure-ad-)
 
 - <b>Creating VPNs</b>
