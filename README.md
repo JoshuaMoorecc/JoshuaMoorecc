@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Creating Vitual Machines](https://github.com/JoshuaMoorecc/Creating-VM)
+  - [Creating Active Directory within Azure VMs](https://github.com/JoshuaMoorecc/configure-ad-)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JoshuaMoorecc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JoshuaMoorecc/post-install-config)
 
-- <b>Microsoft Azure</b>
-  - [Creating Vitual Machines](https://github.com/JoshuaMoorecc/Creating-VM)
-  - [Creating Active Directory within Azure VMs](https://github.com/JoshuaMoorecc/configure-ad-)
 
 - <b>Creating VPNs</b>
    - [Creating VPNs in Virtual Machines](https://github.com/JoshuaMoorecc/VPN)
