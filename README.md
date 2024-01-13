@@ -11,7 +11,7 @@
   - [Creating Active Directory within Azure VMs](https://github.com/JoshuaMoorecc/configure-ad-)
 
 - <b>Creating VPNs</b>
-   - [Creating VPNs in Virtual Machines](https://github.com/JoshuaMoorecc/Creating-VPN)
+   - [Creating VPNs in Virtual Machines](https://github.com/JoshuaMoorecc/VPN)
 
 
 <h2>🤳Connect with me:</h2>
