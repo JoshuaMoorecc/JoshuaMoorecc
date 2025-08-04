@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua, an <a href="https://linkedin.com/in/joshua-m-3b4720105">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joshua, an <a href="https://linkedin.com/in/joshua-m-a276ab378">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
